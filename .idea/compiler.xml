@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="8" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Fix_the_input.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-How_to_learn_the_whole_Kotlin_per_one_task.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Invoke_readLine__.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Read_a_Double.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Reading_data.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Reversed_output.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Reading_data_with_a_readln-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_input-Statements.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_input-Successful_reading.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_input-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Print_code.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Tic-Tac-Toe.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Values_and_variables-Fix_the_program.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Values_and_variables-Theory.main" target="8" />
+      <module name="Cinema_Room_Manager.Topics-Values_and_variables-val_or_var.main" target="8" />
+      <module name="Cinema_Room_Manager.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
